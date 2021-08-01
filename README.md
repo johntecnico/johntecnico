@@ -1,5 +1,5 @@
 ## Olá! Eu sou John Michael 
- <div
+ <div>
   <a href="https://github.com/johntecnico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johntecnico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johntecnico&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="John-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="John-Gafanhoto"  height="100" width="270" src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif"/>
+  <img align="right" alt="John-Gafanhoto"  height="90" width="200" src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif"/>
   
 </div>
   
