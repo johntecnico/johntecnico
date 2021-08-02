@@ -1,7 +1,7 @@
 ## Olá! Eu sou John Michael
 <div>
-  <img align="right" alt="John-Michael"  height="300" width="600" src="https://media.discordapp.net/attachments/856310175161778188/871808877606363146/Design_sem_nome.gif"/>
-</div>
+  <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/871808877606363146/Design_sem_nome.gif"/>
+</div><br><br>
  <div>
   <a href="https://github.com/johntecnico">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johntecnico&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
