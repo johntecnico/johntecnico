@@ -1,6 +1,6 @@
 ## Olá! Eu sou John Michael
 <div>
-  <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/871900981154181120/testeGif.gif"/>
+  <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=643&height=376"/>
 </div><br><br>
  <div>
   <a href="https://github.com/johntecnico">
